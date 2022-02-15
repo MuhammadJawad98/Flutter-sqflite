@@ -45,7 +45,7 @@ class _DemoState extends State<Demo> {
               : SingleChildScrollView(
                   scrollDirection: Axis.horizontal,
                   child: DataTable(
-                    columnSpacing: 15.0,
+                    columnSpacing: 20.0,
                     decoration: BoxDecoration(
                         border: Border.all(
                       width: 0.1,
