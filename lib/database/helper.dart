@@ -1,6 +1,6 @@
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'contacts.dart';
+import '../models/contacts.dart';
 
 class DBHelper {
   //this is to initialize the SQLite database

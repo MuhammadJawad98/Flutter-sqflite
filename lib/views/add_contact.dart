@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'contacts.dart';
-import 'helper.dart';
+import '../models/contacts.dart';
+import '../database/helper.dart';
 
 class AddContacts extends StatefulWidget {
   const AddContacts({Key? key, this.contact}) : super(key: key);

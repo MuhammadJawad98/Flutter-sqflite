@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'add_contact.dart';
-import 'contacts.dart';
-import 'helper.dart';
+import '../models/contacts.dart';
+import '../database/helper.dart';
 
 class Demo extends StatefulWidget {
   const Demo({Key? key}) : super(key: key);

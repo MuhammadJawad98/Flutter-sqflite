@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sqllite/demo.dart';
+import 'package:flutter_sqllite/views/demo.dart';
 
 void main() {
   //to avoid any crash
